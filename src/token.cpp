@@ -1,7 +1,3 @@
-//
-// Created by shanks on 10/13/2025.
-//
-
 #include "token.h"
 #include "libraries.h"
 

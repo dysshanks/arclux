@@ -1,8 +1,3 @@
-// lexer.cpp
-//
-// Created by shanks on 10/12/2025.
-//
-
 #include "lexer.h"
 
 #include <utility>

@@ -1,0 +1,46 @@
+* text=auto
+# Source files
+*.cpp text eol=lf
+*.c text eol=lf
+*.cc text eol=lf
+*.cxx text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.hh text eol=lf
+*.hxx text eol=lf
+*.inl text eol=lf
+# Build system and scripts
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+Makefile text eol=lf
+# Configuration and documentation
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+# Binary / compiled files
+*.exe binary
+*.dll binary
+*.lib binary
+*.so binary
+*.a binary
+*.obj binary
+*.o binary
+*.pdb binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.pdf binary
+# GitHub Linguist
+build/* linguist-generated=true
+bin/* linguist-generated=true
+out/* linguist-generated=true

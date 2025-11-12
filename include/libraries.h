@@ -1,7 +1,3 @@
-//
-// Created by ryanv on 10/13/2025.
-//
-
 #ifndef ARCLUX_LIBRARIES_H
 #define ARCLUX_LIBRARIES_H
 

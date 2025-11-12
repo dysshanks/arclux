@@ -1,7 +1,3 @@
-//
-// Created by shanks on 10/12/2025.
-//
-
 #ifndef ARCLUX_TOKEN_H
 #define ARCLUX_TOKEN_H
 
