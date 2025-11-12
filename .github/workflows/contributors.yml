@@ -1,5 +1,8 @@
 name: Update Contributors List
 
+permissions:
+  contents: write
+
 on:
   push:
 
@@ -12,6 +15,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Ensure docs directory exists
+        run: mkdir -p docs
 
       - name: Install GitHub CLI
         run: |
